@@ -1,0 +1,8 @@
+
+```txt
+*.db
+*.csv
+*.pt
+.env
+__pycache__/
+evidence/

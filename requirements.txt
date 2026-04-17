@@ -1,0 +1,7 @@
+ultralytics
+opencv-python
+streamlit
+pandas
+requests
+python-dotenv
+streamlit-autorefresh
