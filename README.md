@@ -4,9 +4,9 @@ AI Sentinel is a **real-time crowd monitoring and alert system** built using **C
 
 ---
 
-## 📸 Dashboard Preview
+## 📸 Demo video
 
-![AI Sentinel Dashboard](screenshots/dashboard.png)
+https://drive.google.com/file/d/14WW8zoDjP9IAi1CEZXDKXfmN0mD26yA6/view?usp=drivesdk
 
 ---
 
